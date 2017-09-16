@@ -12,11 +12,11 @@ var society = [String](repeating: "", count: 5)
 
 society[0] = "Team"
 
-society[1] = "Members"
+society[1] = "Support"
 
-society[2] = "Support"
+society[2] = "Growing"
 
-society[3] = "Growing"
+society[3] = "Feedback"
 
 society[4] = "Legacy"
 
